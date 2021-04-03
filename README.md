@@ -1,3 +1,4 @@
+You can go to the site right now by this url: https://potapchick-mini-library.netlify.app
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
